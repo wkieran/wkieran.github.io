@@ -1,5 +1,3 @@
-# Kieran's Personal Website
-
 Welcome to my personal website! This space serves as a hub for my professional information and projects.
 
 ## Bio
@@ -12,7 +10,7 @@ Whether it's creating intricate beats or experimenting with soundscapes, I am co
 
 ## Resume
 
-Check out my [resume](resume.md) for details about my education, work experience, and skills.
+Check out my [resume](resume.pdf) for details about my education, work experience, and skills.
 
 ## Projects
 
