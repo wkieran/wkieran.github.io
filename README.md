@@ -19,9 +19,8 @@ Check out my [resume](resume.pdf) for details about my education, work experienc
 
 Here are some highlights of my projects:
 
-1. **[Project 1](link_to_project_1)** - Brief description of project 1.
-2. **[Project 2](link_to_project_2)** - Brief description of project 2.
-3. **[Project 3](link_to_project_3)** - Brief description of project 3.
+1. **[MimiDrums](link_to_project_1)** - A portable, field-recording drum sequencer based on STM32.
+2. **[Analog Wave Generator](link_to_project_2)** - My entry into the world of analog synthesis.
 
 For a complete list, visit the [Projects](projects.md) page.
 
