@@ -1,8 +1,11 @@
-Welcome to my personal website! This space serves as a hub for my professional information and projects.
+<!-- ![Photo of Kieran](me.jpg)  -->
+
 
 ## Bio
 
-Hello, I'm Kieran Whitsitt, a Computer Engineering student at Purdue University, based out of Northern Virginia. I am passionate about embedded software, cryptography, and music applications of software and hardware development.
+<img src="me.jpg" alt="Photo of Kieran" width="150" style="float: right; margin: 10px;">
+
+Hello, I'm Kieran Whitsitt, a Computer Engineering student at Purdue University. I am from the Northern Virginia area. I am passionate about embedded software, cryptography, and building my own music production hardware.
 
 Whether it's creating intricate beats or experimenting with soundscapes, I am constantly exploring the intersection of technology and music. My journey extends beyond code, embracing the tangible world of hardware to bring musical ideas to life.
 
