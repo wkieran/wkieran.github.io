@@ -16,13 +16,13 @@ Whether it's creating intricate beats or experimenting with soundscapes, I am co
 Check out my [resume](resume.pdf) for details about my education, work experience, and skills.
 
 ## Projects
+This section is a work in progress, come back later!
+<!-- Here are some highlights of my projects: -->
 
-Here are some highlights of my projects:
+<!-- 1. **[MimiDrums](link_to_project_1)** - A portable, field-recording drum sequencer based on STM32.
+2. **[Analog Wave Generator](link_to_project_2)** - My entry into the world of analog synthesis. -->
 
-1. **[MimiDrums](link_to_project_1)** - A portable, field-recording drum sequencer based on STM32.
-2. **[Analog Wave Generator](link_to_project_2)** - My entry into the world of analog synthesis.
-
-For a complete list, visit the [Projects](projects.md) page.
+<!-- For a complete list, visit the [Projects](projects.md) page. -->
 
 ## Contact Information
 
