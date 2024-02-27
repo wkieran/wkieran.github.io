@@ -30,6 +30,7 @@ Feel free to reach out to me:
 
 - Email: [kieranwhitsitt@outlook.com](mailto:kieranwhitsitt@outlook.com)
 - LinkedIn: [https://www.linkedin.com/in/whitsittk/](https://www.linkedin.com/in/whitsittk/)
+- GitHub: [https://github.com/wkieran](https://github.com/wkieran)
 <!-- - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 
 I'm open to collaborations and new opportunities. Let's connect!
