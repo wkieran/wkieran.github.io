@@ -8,7 +8,6 @@
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -18,9 +17,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: #333333;  /* Dark grey background */
+  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  color: #f0f0f0;  /* Light grey text color */
 }
 
 .container {
@@ -31,17 +30,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #ffffff;  /* White color for headings */
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
 }
 
 h1 {
@@ -61,7 +56,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #cccccc;  /* Light grey for smaller headings */
 }
 
 p {
@@ -69,11 +64,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #3399ff;  /* Blue links */
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #3399ff;
   }
 }
 
@@ -117,17 +112,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #cccccc;  /* Light grey for date text */
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: #ffffff;  /* White text selection */
+  background: #666666;  /* Dark grey selection background */
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: #ffffff;
+  background: #666666;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -156,11 +151,9 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #444444;  /* Slightly lighter grey for borders */
 
-  @include mobile {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 .site-avatar {
@@ -169,11 +162,9 @@ img {
   height: 70px;
   margin-right: 15px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  float: none;
+  display: block;
+  margin: 0 auto;
 
   img {
     border-radius: 5px;
@@ -183,18 +174,16 @@ img {
 .site-info {
   float: left;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  float: none;
+  display: block;
+  margin: 0 auto;
 }
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #f0f0f0;  /* Light grey for site name */
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -202,38 +191,30 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #cccccc;  /* Light grey for description */
   font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  margin-top: 23px; 
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
+  float: none;
+  margin-top: 9px;
+  display: block;
+  font-size: 16px;
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #f0f0f0;  /* Light grey for navigation links */
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
+    margin: 0 10px;
+    color: #3399ff;
   }
 }
 
@@ -243,7 +224,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #444444;  /* Slightly lighter grey for borders */
 }
 
 .posts > .post:last-child {
@@ -254,9 +235,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #cccccc;  /* Light grey for blockquote border */
     padding: 0.1em 1em;
-    color: $gray;
+    color: #cccccc;  /* Light grey for blockquote text */
     font-size: 22px;
     font-style: italic;
   }
@@ -273,9 +254,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #444444;
+  border-bottom: 1px solid #444444;
+  background-color: #444444;  /* Slightly lighter grey for footer background */
 }
 
 footer {
