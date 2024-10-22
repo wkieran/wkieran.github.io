@@ -3,7 +3,7 @@ layout: post
 title: How to make carnitas
 ---
 
-I often make this recipe for my friends and family. While it takes a little time, it requires minimal effort aside from the prep work. I originally got this recipe from ~[Kenji](https://youtube.com/@jkenjilopezalt?si=dMpl9jjU67YFHwYL)~ and tweaked it. All you need is a knife, cutting board, baking sheet, and a Dutch oven (or a similar high-walled cast iron pan).
+I often make this recipe for my friends and family. While it takes a little time, it requires minimal effort aside from the prep work. I originally got this recipe from [Kenji](https://youtube.com/@jkenjilopezalt?si=dMpl9jjU67YFHwYL) and tweaked it. All you need is a knife, cutting board, baking sheet, and a Dutch oven (or a similar high-walled cast iron pan).
 
 **Ingredients**
 - Pork shoulder
